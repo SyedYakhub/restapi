@@ -1,2 +1,6 @@
-# restapi
-REST APIs using SpringBoot
+<<<<<<< HEAD
+(your changes)
+=======
+(changes from the remote branch)
+>>>>>>> origin/master
+
